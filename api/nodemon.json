@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_USER": "reactsitea",
+        "MONGO_PASSWORD": "xWR0JNsqJgFPDSlQ",
+        "MONGO_DB": "reactwebsitea"
+    }
+}
+
